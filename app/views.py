@@ -46,6 +46,7 @@ def about(request):
             'title':'About',
             'message':'Gerenciador de vestibulares',
             'year':datetime.now().year,
+            'nome':'Henrique Borges da Silva'
         })
     )
 
